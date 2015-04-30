@@ -294,4 +294,8 @@ public class LinkActivity extends Activity {
         this.timer.cancel();
         this.timer = null;
     }
+
+    public int add(int a, int b) {
+        return a + b;
+    }
 }
