@@ -17,5 +17,4 @@ public class LinkActivityTest extends ActivityInstrumentationTestCase2<LinkActiv
     public LinkActivityTest() {
         super("edu.cgxy.link", LinkActivity.class);
     }
-
 }
