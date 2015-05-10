@@ -3,3 +3,4 @@ gen/
 bin/
 out/
 *.iml
+local.properties
