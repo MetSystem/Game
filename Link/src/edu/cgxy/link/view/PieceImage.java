@@ -6,7 +6,6 @@ public class PieceImage
 {
 	private Bitmap image;
 	private int imageId;
-	// �в����Ĺ�����
 	public PieceImage(Bitmap image, int imageId)
 	{
 		super();
