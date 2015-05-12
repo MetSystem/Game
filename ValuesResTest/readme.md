@@ -6,3 +6,5 @@
 [<package_name.>].R.<resource_type>.<resource_name>
 如 R.string.c1
 或者 edu.cgxy.resvalue.R.string.c1
+
+github push不用每你都输入密码
