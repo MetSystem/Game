@@ -7,4 +7,4 @@
 如 R.string.c1
 或者 edu.cgxy.resvalue.R.string.c1
 
-github push不用每次都输入密码但是貌似不行,再试一次,再试一次,再试一次
+github push不用每次都输入密码但是貌似不行,再试一次,再试一次,再试一次，再试一次
