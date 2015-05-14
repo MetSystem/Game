@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="plain_arr">
+        <item>@color/c1</item>
+        <item>@color/c2</item>
+        <item>@color/c3</item>
+        <item>@color/c4</item>
+    </array>
+    <string-array name="string_arr">
+        <item>@string/c1</item>
+        <item>@string/c2</item>
+        <item>@string/c3</item>
+        <item>@string/c4</item>
+    </string-array>
+    <string-array name="books">
+        <item>活着</item>
+        <item>秦腔</item>
+        <item>在细雨中呐喊</item>
+        <item>许三观卖血记</item>
+    </string-array>
+</resources>
